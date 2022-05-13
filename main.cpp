@@ -67,5 +67,5 @@ int main()
     studikasus x; 
     x.input(); 
     x.proses();
-    x.output();
+    x.output(); 
 }
