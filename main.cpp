@@ -5,7 +5,7 @@ class studikasus
 {
 private:
     char nama[30],matkul[30], grade;
-    int tugas, uts, uas, ntugas, nuts, nuas, na, nkehadiran;
+    int tugas, uts, uas, ntugas, nuts, nuas, na;
 public: 
     void input();
     void proses();
